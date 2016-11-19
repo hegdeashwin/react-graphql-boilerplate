@@ -1,0 +1,36 @@
+{
+  "name": "react-graphql-boilerplate",
+  "version": "0.0.1",
+  "description": "A react-graphql boilerplate",
+  "dependencies": {
+    "express-graphql": "^0.6.1",
+    "graphql": "^0.8.2",
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.10.2",
+    "jest": "^17.0.3",
+    "jest-cli": "^17.0.3",
+    "webpack": "^1.13.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/re-stacks/react-graphql-boilerplate.git"
+  },
+  "keywords": [
+    "react",
+    "graphql",
+    "boilerplate",
+    "react-graphql"
+  ],
+  "author": "Ashwin Hegde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/re-stacks/react-graphql-boilerplate/issues"
+  },
+  "homepage": "https://github.com/re-stacks/react-graphql-boilerplate#readme"
+}
